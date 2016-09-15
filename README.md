@@ -5,15 +5,16 @@ This project is written in javaScript program using Minecraft ScriptCraft mode t
 Installation
 
 1.Download ScriptCraft
-2.Then cd to the resulting folder. Examples of scripts are in the directory scriptcraft/plugins/drone/contrib where you will see
 
-castle.js		hangtorch.js		redstonewire.js
-chessboard.js		lcd-clock.js		spawn.js
-cottage.js		logo.js			spiral_stairs.js
-dancefloor.js		mazegen.js		temple.js
-fort.js			rainbow.js
+2. Then cd to the resulting folder. Examples of scripts are in the directory scriptcraft/plugins/drone/contrib where you will see
 
-You can use one of those as a model. Play some of the scripts to see how they work in the game.
+        castle.js		hangtorch.js		redstonewire.js
+        chessboard.js		lcd-clock.js		spawn.js
+        cottage.js		logo.js			spiral_stairs.js
+        dancefloor.js		mazegen.js		temple.js
+        fort.js			rainbow.js
+
+    You can use one of those as a model. Play some of the scripts to see how they work in the game.
 
 3. Place nyan.js script in the same directory.
 
