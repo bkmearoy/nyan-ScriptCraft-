@@ -6,7 +6,7 @@ Installation
 
 1.Download ScriptCraft
 
-2. Then cd to the resulting folder. Examples of scripts are in the directory scriptcraft/plugins/drone/contrib where you will see
+2.Then cd to the resulting folder. Examples of scripts are in the directory scriptcraft/plugins/drone/contrib where you will see
 
         castle.js		hangtorch.js		redstonewire.js
         chessboard.js		lcd-clock.js		spawn.js
@@ -16,7 +16,7 @@ Installation
 
     You can use one of those as a model. Play some of the scripts to see how they work in the game.
 
-3. Place nyan.js script in the same directory.
+3.Place nyan.js script in the same directory.
 
 Start the server with go.sh (or the equivalent Windows one-liner)
 
